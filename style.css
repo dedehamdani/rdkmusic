@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Notable|Roboto+Mono');
+.dhope{
+    background-color: black;
+  font-family: 'Roboto Mono';
+  padding: 0px;
+  margin: 0px;
+  border: 3px solid rgb(4, 160, 250);
+  border-top: 3px solid rgb(4, 160, 250);
+  border-bottom: 3px solid rgb(4, 160, 250);
+}
+.bts{
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+    border: 3px solid rgb(25, 150, 8);
+    background-color:  rgb(255, 90, 14);
+}
+.abc{
+    width: 250px;
+    height: 10px;
+    color: white;
+    font-family: 'Roboto Mono';
+    font-size: 10px;
+}
+.info{
+    border: 1px solid rgb(54, 53, 53);
+    background-color: rgb(203, 252, 126);
+    font-family: 'Roboto Mono';
+}
+.pilih{
+    background-color: aliceblue;
+    font-family: 'Roboto Mono';
+    border: 1px solid rgb(54, 53, 53);
+}
+.exo{
+    border-left: 1px solid rgb(54, 53, 53);
+    border-right: 1px solid rgb(54, 53, 53);
+   
+}
+.snsd{
+    border-top: 1px solid rgb(202, 200, 200);
+    border-left: 1px solid rgb(54, 53, 53);
+    border-right: 1px solid rgb(54, 53, 53);
+    border-bottom: 1px solid  rgb(54, 53, 53);
+    background-color: rgb(203, 252, 126);
+}
+.girls{
+    border-top: 1px solid rgb(202, 200, 200);
+    border-left: 1px solid  rgb(202, 200, 200);
+    border-right: 1px solid ,  rgb(202, 200, 200);
+}

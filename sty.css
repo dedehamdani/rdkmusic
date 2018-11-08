@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Notable|Roboto+Mono');
+.hope{
+    background-color: black;
+  font-family: 'Roboto Mono';
+  padding: 0px;
+  margin: 0px;
+  border: 3px solid rgb(4, 160, 250);
+  border-top: 3px solid rgb(4, 160, 250);
+  border-bottom: 3px solid rgb(4, 160, 250);
+
+}
+.jin{
+display: block;
+width: 200px;
+height: 200px;
+}
+.suga{
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+    border: 3px solid rgb(25, 150, 8);
+    background-color:  rgb(255, 90, 14);
+}
+.rap{
+    background-color: rgb(59, 236, 5);
+    position: relative;
+}
+.abc{
+    width: 250px;
+    height: 10px;
+    color: white;
+    font-family: 'Roboto Mono';
+    font-size: 10px;
+}
+.home{
+   
+    
+    width: 927px;
+    height: 50px;
+    font-family: 'Roboto Mono';
+    font-size: 15px;
+    border:1px ; 
+    font-size-adjust: inherit;
+  
+}
+.about{
+    background-color: black;
+    border: 1px solid rgb(54, 53, 53);
+    font-family: 'Roboto Mono';
+}
+.abou1{
+    background-color: white;
+    border: 1px solid rgb(54, 53, 53);
+    font-family:'Roboto Mono'; 
+
+}
+.new{
+    background-color: black;
+    border: 1px solid rgb(54, 53, 53);
+    font-family: 'Roboto Mono';
+}
+.nw{
+    border: 1px solid rgb(54, 53, 53);
+}
+.list{
+    
+    font-size: 13px;
+    font-family: 'Roboto Mono';
+}
+.more{
+    border:1px solid rgb(54, 53, 53);
+    font-size: 15px;
+    font-family: 'Roboto Mono';
+    color: black;
+    background-color:  rgb(255, 102, 0);
+}
+.copy{
+    border:1px solid rgb(54, 53, 53);
+    font-size: 15px;
+    font-family: 'Roboto Mono';
+    background-color: rgb(0, 0, 0);
+
+}
